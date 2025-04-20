@@ -48,9 +48,9 @@ export default function Home() {
 }
 // 轮播图片
 const images = [
-  "https://images.unsplash.com/photo-1485433592409-9018e83a1f0d?q=80&w=1814&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  "https://images.unsplash.com/photo-1483982258113-b72862e6cff6?q=80&w=3456&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  "https://images.unsplash.com/photo-1482189349482-3defd547e0e9?q=80&w=2848&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "https://boot-img.xuexi.cn/image/1005/process/b0c88221c3cf4e9584c419756b3f5dd2.png",
+  "https://pic.rmb.bdstatic.com/bjh/241207/dump/beb7e08d531be541dfd3cab2bd11e392.jpeg",
+  "https://copyright.bdstatic.com/vcg/edit/19d4bb1084c65d0078d0c92b693b006c.jpg",
 ];
 // 导师资料
 const testimonials = [
