@@ -1,3 +1,11 @@
+# 第49组：环境工程课题组网站建设
+
+组员：杨圣童，熊仕朗，姚恒，付果，吴威恒
+
+项目地址：[https://d2rs-2025spring.github.io/environment-lab](https://d2rs-2025spring.github.io/environment-lab/)
+
+## Description
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
